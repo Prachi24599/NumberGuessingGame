@@ -68,6 +68,6 @@ function resetGame() {
   guessField.value = "";
   guessField.focus();
 
-  lastResult.style.backgroundColor = "white";
+  lastResult.style.backgroundColor = "rgb(88, 82, 82)";
   randomNumber = Math.floor(Math.random() * 100) + 1;
 }
