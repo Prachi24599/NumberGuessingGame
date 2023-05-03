@@ -4,3 +4,8 @@ I have created a simple guess the number type game. It should choose a random nu
 
 
 Play Game from here - https://prachi24599.github.io/NumberGuessingGame/
+
+
+![image](https://user-images.githubusercontent.com/54476598/236019087-5e3caa9d-c3ca-43aa-b2b0-50441d8cdd9a.png)
+
+![image](https://user-images.githubusercontent.com/54476598/236019202-8560c565-3870-4af2-b47f-2228e2a67ada.png)
